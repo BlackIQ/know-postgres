@@ -18,7 +18,7 @@ It has kind of everything a beginer need to know. Even `JOIN` or other things. B
 - `LIMIT`: Creating
 - `ALTER TABLE`: Creating
 - `JOIN`: Creating
-- `Realtions`: One to One (1:1), One to Many (1:N), Many to Many (N:N)
+- `Relations`: One to One (1:1), One to Many (1:N), Many to Many (N:N)
 
 ## Why PostgreSQL cheat sheet?
 
