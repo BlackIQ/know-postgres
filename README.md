@@ -1,4 +1,4 @@
-# PostgreSQL basic
+# PostgreSQL Cheat Sheet
 
 A very simple, good, fast way to learn **PostgreSQL** (if you already know SQL).
 
