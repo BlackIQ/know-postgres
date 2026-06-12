@@ -16,7 +16,9 @@ It has kind of everything a beginer need to know. Even `JOIN` or other things. B
 - `GROUP BY`: Base of grouping and aggrigation
 - `HAVING`: Maybe another time I'll add it
 - `LIMIT`: Using sort and limit
-- `ALTER TABLE`: Creating
+- `ALTER TABLE`: Add columns, remove columns
+- `Multi Table`: Having more than 1 tables
+- `FOREIGN KEY`: Relation Matters Most (RMM)
 - `JOIN`: Creating
 - `Relations`: One to One (1:1), One to Many (1:N), Many to Many (N:N)
 
